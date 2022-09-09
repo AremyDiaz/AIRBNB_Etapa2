@@ -1,0 +1,8 @@
+functools
+unicodedata
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+airbnblogo.jpg
