@@ -1,7 +1,8 @@
+altair
 functools
 unicodedata
 streamlit
 pandas
 numpy
 plotly
-matplotlib.pyplot
+matplotlib
